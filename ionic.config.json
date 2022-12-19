@@ -1,7 +1,0 @@
-{
-  "name": "projek_uas",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
