@@ -1,0 +1,99 @@
+.avatar {
+    --border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    margin: 1%;
+}
+
+.box {
+    background-color: rgb(210, 210, 210);
+    margin: 5%;
+    border-radius: 10%;
+}
+
+.boxDesktop {
+    background-color: rgb(210, 210, 210);
+    margin: 5%;
+    border-radius: 5%;
+}
+
+.iconViewRequest {
+    width: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.iconRequestHelp {
+    width: 117px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.iconsk {
+    width: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.iconabout {
+    width: 124px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.iconViewRequest-d {
+    width: 500px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.iconRequestHelp-d {
+    width: 500px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.iconsk-d {
+    width: 500px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.iconabout-d {
+    width: 500px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.iconemergency-d{
+    width: 130px;
+}
+
+.red {
+    border-radius: 90%;
+    background-color: #ff0022;
+    padding: 5%;
+    width: 130px;
+}
+
+.logomedic{
+    margin-left: 10px;
+    bottom: 0;
+    position: absolute;
+    float:left;
+    width: 22em;
+}
+.logoumn{
+    bottom: 0;
+    position: absolute;
+    float: right;
+    width: 12.5em;
+}

@@ -1,0 +1,13 @@
+.cardLuar{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    background-color: rgb(210, 210, 210);
+}
+
+.detailRow{
+    color: black;
+    font-style: bolder;
+    margin-bottom: 10px;
+}
