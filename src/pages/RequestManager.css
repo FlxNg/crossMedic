@@ -1,0 +1,11 @@
+.titleReq{
+    margin-left: 10px;
+    color: black;
+    font-weight: bold;
+}
+.rejected{
+    color: tomato;
+}
+.accepted{
+    color: greenyellow
+}
